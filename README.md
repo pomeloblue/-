@@ -61,7 +61,7 @@
 2. 从源码运行：
    ```bash
    pip install pillow
-   python 批量自定义水印版.py
+   python 批量自定义水印.py
    ```
 
 ## 注意事项
