@@ -56,12 +56,12 @@
 ## 安装说明
 
 1. 直接运行：
-   - 下载并运行 "批量自定义水印工具.exe"
+   - 下载并运行 "watermarktool.exe"
 
 2. 从源码运行：
    ```bash
    pip install pillow
-   python 批量自定义水印.py
+   python watermarktool.py
    ```
 
 ## 注意事项
